@@ -1,0 +1,14 @@
+set(SOURCES
+	src/PCH.h
+	src/main.cpp
+	src/CasingManager.h
+	src/CasingManager.cpp
+	src/Configs.h
+	src/Configs.cpp
+	src/Globals.h
+	src/Globals.cpp
+	src/Hooks.h
+	src/Hooks.cpp
+	src/Utils.h
+	src/Utils.cpp
+)

@@ -1,0 +1,13 @@
+{
+  "name": "CasingFramework",
+  "version-string": "0.0.1",
+  "description": "A framework for overwriting EjectShellCasing behavior built using CommonLibF4",
+  "homepage": "https://github.com/jarari/CasingFramework",
+  "license": "MIT",
+  "dependencies": [
+    "boost-stl-interfaces",
+    "fmt",
+    "mmio",
+    "spdlog"
+  ]
+}
